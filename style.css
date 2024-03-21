@@ -55,7 +55,7 @@ html{
  .showcase{
      grid-area: showcase;
      min-height: 400px;
-     background-image: url("../image/lap.jpg");
+     background-image: url("image/lap.jpg");
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
